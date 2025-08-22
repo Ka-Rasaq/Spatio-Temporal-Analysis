@@ -2,7 +2,7 @@
 
 ![](Violence_child.png)
 ---
-## Table of Content
+## Table of Contents
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [Tools Used](#tools-used)
@@ -23,7 +23,7 @@ This project analyzes spatio-temporal conflict data in Nigeria between 2020 and 
 
 ## Problem Statement
 
-Nigeria has experienced persistent violent conflict ranging from insurgency and communal clashes to political violence. Identifying where, when, and who is driving these events is critical for security planning, humanitarian response, and peacebuilding efforts.
+Nigeria has experienced persistent violent conflicts ranging from insurgency and communal clashes to political violence. Identifying where, when, and who is driving these events is critical for security planning, humanitarian response, and peacebuilding efforts.
 
 This project aims to answer:
 - How has violence evolved across time (2020–2025)?
@@ -72,7 +72,7 @@ Steps taken to prepare the dataset:
 The report contains three pages:
 1. Overview
 2. Spatio Analysis
-3. Conflict Actor
+3. Conflict Actors
 
 You can interact with the dashboard [here](https://public.tableau.com/app/profile/rasaq.kareem/viz/HTAFinalProject/Overview)
 ### Overview
@@ -89,7 +89,7 @@ You can interact with the dashboard [here](https://public.tableau.com/app/profil
 - Most conflict events were mapped with exact geolocation, ensuring the reliability of the analysis.
 - The North-Central and North-West regions emerged as the deadliest zones, reflecting persistent farmer-herder clashes, banditry, and insurgency.
 
-### Conflict Actor
+### Conflict Actors
 ![](Conflict_Actor.png)
 
 - Herdsmen caused the highest fatalities, followed by ISWAP and unknown gunmen.
@@ -106,7 +106,7 @@ You can interact with the dashboard [here](https://public.tableau.com/app/profil
 
 - **Regional Hotspots**: Borno, Zamfara, Kaduna, Katsina, and Benue recorded the highest concentration of violent events and fatalities, making them key conflict hotspots.
 
-- **Seasonal Spikes**: Fatalities peak during May–July, suggesting seasonal factors such as farmer–herder clashes and political activities intensify violence.
+- **Seasonal Spikes**: Fatalities peaked during May–July, suggesting seasonal factors such as farmer–herder clashes and political activities intensify violence.
 
 - **Perpetrators of Violence**: Herdsmen and unknown gunmen are among the deadliest conflict actors, driving a significant share of fatalities.
 
@@ -118,8 +118,8 @@ You can interact with the dashboard [here](https://public.tableau.com/app/profil
 
 - **Seasonal Conflict Preparedness**: Intensify patrols, surveillance, and mediation efforts during high-risk months (May–July), when attacks by unknown gunmen and communal militias usually peak.
 
-- **Tackle Root Socio-Economic Drivers**: Reduce recruitment into violent groups by investing in education, job creation, and rural development, especially targeting unemployed youth in conflict-prone regions.
+- **Tackle Root Socio-Economic Drivers**: Reduce recruitment into violent groups by investing in education, job creation, and rural development, especially targeting unemployed youths in conflict-prone regions.
 
-- **Enhance State–Federal Collaboration**: Encourage partnerships between federal security agencies, local governments, and vigilante/community groups for rapid response and improved trust with residents.
+- **Enhance State–Federal Collaboration**: Encourage partnerships among federal security agencies, local governments, and vigilante/community groups for rapid response and improved trust with residents.
 
 - **Adopt Data-Driven Policies**: Continuously monitor conflict trends through geospatial mapping and transparent reporting to guide resource allocation and adapt strategies to evolving dynamics.
